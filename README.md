@@ -29,8 +29,9 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%23316192.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-![PySpark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=pyspark&logoColor=black)
+![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=pyspark&logoColor=black)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ## 📊 GitHub Stats:
