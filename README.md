@@ -30,7 +30,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![PySpark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=pyspark&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ## 📊 GitHub Stats:
 
@@ -46,5 +47,7 @@
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-%23FF9A00.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 
 
