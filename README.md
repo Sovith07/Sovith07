@@ -33,6 +33,7 @@
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=pyspark&logoColor=black)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%23FFD21E.svg?style=for-the-badge&logo=docker&logoColor=black)
 
 ## 📊 GitHub Stats:
 
