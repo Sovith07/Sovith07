@@ -6,7 +6,7 @@
 🔭 I'm currently learning Data Science and Analytics |
 👥 I'm looking to collaborate on Data,ML,DL and RAG projects |
 🤝 I'm looking for Collaboration and work |
-💬 Ask me about : Passionate to learn Data Science and do projects |
+💬 Ask me about : Python · SQL · ML · Deep Learning · NLP · MLOps |
 📫 how to Reach Me : sovithkumarsingh786786@gmail.com |
 
 ## 🌐 Socials:
@@ -35,6 +35,17 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-%23FFD21E.svg?style=for-the-badge&logo=docker&logoColor=black)
 
+## ⚙️ MLOps & Cloud:
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-%2313ADC7.svg?style=for-the-badge&logo=dvc&logoColor=white)
+![Seldon](https://img.shields.io/badge/Seldon-%230073C5.svg?style=for-the-badge&logo=seldon&logoColor=white)
+
+
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Sovith07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
@@ -50,6 +61,5 @@
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![NLP](https://img.shields.io/badge/NLP-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-%23FF9A00.svg?style=for-the-badge&logo=huggingface&logoColor=white)
-
+![MLOps](https://img.shields.io/badge/MLOps-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
