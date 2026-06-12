@@ -40,11 +40,10 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-%2313ADC7.svg?style=for-the-badge&logo=dvc&logoColor=white)
 ![Seldon](https://img.shields.io/badge/Seldon-%230073C5.svg?style=for-the-badge&logo=seldon&logoColor=white)
-
+![Kubeflow](https://img.shields.io/badge/Kubeflow-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## 📊 GitHub Stats:
 
