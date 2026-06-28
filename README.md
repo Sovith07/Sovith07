@@ -61,4 +61,5 @@
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![NLP](https://img.shields.io/badge/NLP-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![MLOps](https://img.shields.io/badge/MLOps-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
