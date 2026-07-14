@@ -25,7 +25,7 @@
 
 ```yaml
 name: Sovith Kumar Singh
-role: Data Scientist / ML Engineer
+role: Data Analyst / Data Scientist / ML Engineer
 education:
   - degree: M.Sc. Mathematics
     institute: Indian Institute of Technology (IIT) Delhi
