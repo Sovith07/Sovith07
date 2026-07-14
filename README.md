@@ -27,8 +27,8 @@
 
 # Sovith Kumar Singh
    
-🎓 M.Sc. Mathematics, IIT Delhi & B.Sc., Deshbandhu College
-🔭 Currently building end-to-end ML pipelines with MLOps practices
+### 🎓 M.Sc. Mathematics, IIT Delhi & B.Sc., Deshbandhu College
+# 🔭 Currently building end-to-end ML pipelines with MLOps practices
 🧠 Paper-faithful ML: algorithm internals over surface-level tutorials
 👥 Open to Data Analytics,Data Science, ML,DL,Transformmers & MLOps collaboration
 💬 Ask me about: Python · SQL · ML · Deep Learning · MLOps · AWS · NLP · DL · GEN AI
