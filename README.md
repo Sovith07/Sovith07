@@ -21,39 +21,26 @@
 
 <br/>
 
-## ⭐ About Me
 
-```yaml
-name: Sovith Kumar Singh
-role: Data Analyst / Data Scientist / ML Engineer
-education:
-  - degree: M.Sc. Mathematics
-    institute: Indian Institute of Technology (IIT) Delhi
-  - degree: B.Sc.
-    institute: Deshbandhu College
-location: Delhi, India
-focus:
-  - Classical & applied machine learning
-  - Paper-faithful model internals (e.g. LightGBM: EFB, GreedyFindBin, histogram-based splits)
-  - MLOps & production ML systems
-  - GenAI / RAG & multi-agent systems
-philosophy: >
-  I care as much about *why* an algorithm works as I do about
-  shipping it to production — derivations first, deployment second.
-```
-⭐ About Me
+##⭐ About Me
 
 
+# Sovith Kumar Singh
+   
 🎓 M.Sc. Mathematics, IIT Delhi & B.Sc., Deshbandhu College
 🔭 Currently building end-to-end ML pipelines with MLOps practices
 🧠 Paper-faithful ML: algorithm internals over surface-level tutorials
-👥 Open to Data Science, ML & MLOps collaboration
+👥 Open to Data Analytics,Data Science, ML,DL,Transformmers & MLOps collaboration
 💬 Ask me about: Python · SQL · ML · Deep Learning · MLOps · AWS · NLP · DL · GEN AI
 📫 Reach me: sovithkuamrsingh786786@gmail.com
 
 
 I'm a math-trained data scientist who moves fluidly between the theory of ML (paper derivations, algorithm internals) and the engineering required to actually ship it — containerized services, CI/CD pipelines, and cloud infrastructure. My current focus is building end-to-end MLOps portfolio projects that mirror real production systems.
+My current focus is building end-to-end MLOps portfolio projects that mirror real production systems, not just notebooks — going from a trained model to a containerized, CI/CD-deployed service running on real cloud infrastructure.
 
+I have a particular interest in going paper-faithful rather than surface-level: understanding gradient boosting frameworks (like LightGBM's Exclusive Feature Bundling and histogram-based split finding) down to the algorithm level, not just the API. That same rigor is now extending into GenAI, RAG pipelines, and agentic systems.
+
+Outside of pure ML, I've taken on leadership responsibility — serving as PG Representative for the Maintenance & Mess Department during my time at IIT Delhi — and I've been through a Campus x Data Science Mentorship Program to sharpen applied, industry-facing skills.
 <br/>
 
 ## 📦 Popular Repositories
