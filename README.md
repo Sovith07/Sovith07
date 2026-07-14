@@ -25,14 +25,14 @@
 ## ⭐ About Me
 
 
-# Sovith Kumar Singh
+# Name- Sovith Kumar Singh
    
 ### 🎓 M.Sc. Mathematics, IIT Delhi & B.Sc., Deshbandhu College
-# 🔭 Currently building end-to-end ML pipelines with MLOps practices
-🧠 Paper-faithful ML: algorithm internals over surface-level tutorials
-👥 Open to Data Analytics,Data Science, ML,DL,Transformmers & MLOps collaboration
-💬 Ask me about: Python · SQL · ML · Deep Learning · MLOps · AWS · NLP · DL · GEN AI
-📫 Reach me: sovithkuamrsingh786786@gmail.com
+### 🔭 Currently building end-to-end ML pipelines with MLOps practices
+### 🧠 Paper-faithful ML: algorithm internals over surface-level tutorials
+### 👥 Open to Data Analytics,Data Science, ML,DL,Transformmers & MLOps collaboration
+### 💬 Ask me about: Python · SQL · ML · Deep Learning · MLOps · AWS · NLP · DL · GEN AI
+### 📫 Reach me: sovithkuamrsingh786786@gmail.com
 
 
 I'm a math-trained data scientist who moves fluidly between the theory of ML (paper derivations, algorithm internals) and the engineering required to actually ship it — containerized services, CI/CD pipelines, and cloud infrastructure. My current focus is building end-to-end MLOps portfolio projects that mirror real production systems.
