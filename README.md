@@ -42,6 +42,26 @@ philosophy: >
   shipping it to production — derivations first, deployment second.
 ```
 
+
+<svg width="680" height="300" viewBox="0 0 680 300" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>About Sovith Kumar Singh</title>
+  <desc>Data scientist and ML engineer background summary</desc>
+
+  <rect x="0" y="0" width="680" height="300" rx="12" fill="#f4f6fb" stroke="#d7dce6" stroke-width="1"/>
+
+  <text x="32" y="46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#101423">About Me</text>
+  <line x1="32" y1="58" x2="648" y2="58" stroke="#d7dce6" stroke-width="1"/>
+
+  <text x="32" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#151a2d">🎓 M.Sc. Mathematics, IIT Delhi &amp; B.Sc., Deshbandhu College</text>
+  <text x="32" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#151a2d">🔭 Currently building end-to-end ML pipelines with MLOps practices</text>
+  <text x="32" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#151a2d">🧠 Paper-faithful ML: algorithm internals over surface-level tutorials</text>
+  <text x="32" y="180" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#151a2d">👥 Open to Data Science, ML &amp; MLOps collaboration</text>
+  <text x="32" y="210" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#151a2d">💬 Ask me about: Python · SQL · ML · Deep Learning · MLOps · AWS</text>
+  <text x="32" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#151a2d">📫 Reach me: sovithkuamrsingh786786@gmail.com</text>
+
+  <text x="32" y="276" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#4b5568">Data derivations first, deployment second.</text>
+</svg>
+
 I'm a math-trained data scientist who moves fluidly between the theory of ML (paper derivations, algorithm internals) and the engineering required to actually ship it — containerized services, CI/CD pipelines, and cloud infrastructure. My current focus is building end-to-end MLOps portfolio projects that mirror real production systems.
 
 <br/>
