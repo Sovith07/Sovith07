@@ -25,7 +25,7 @@
 ## ⭐ About Me
 
 
-# Name- Sovith Kumar Singh
+# 🧑‍💻  Sovith Kumar Singh
    
 ### 🎓 M.Sc. Mathematics, IIT Delhi & B.Sc., Deshbandhu College
 ### 🔭 Currently building end-to-end ML pipelines with MLOps practices
